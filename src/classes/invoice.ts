@@ -11,3 +11,4 @@ export class Invoice{
      return `${this.name} owes #${this.amount} for ${this.details}`;
     }
   }
+
